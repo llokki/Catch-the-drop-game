@@ -14,7 +14,7 @@ public class GameWindow extends JFrame {
     private static Image background;
     private static Image game_over;
     private static Image drop;
-    private static float drop_left = 200;
+    private static float drop_left = 204;
     private static float drop_top = -100;
     private static float drop_v = 200;
     private static int score = 0;
